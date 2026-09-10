@@ -83,3 +83,14 @@ Estudiante de Ingeniería del Software en la **Universidad Europea del Atlántic
 ![Stats](https://ghstats.dev/api/card?username=Alejandrojuarez0105&theme=nord&hide_border=true&border_radius=0)
 
 </div>
+
+## Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandrojuarez0105/Alejandrojuarez0105/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Alejandrojuarez0105/Alejandrojuarez0105/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
