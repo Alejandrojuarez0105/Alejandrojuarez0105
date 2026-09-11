@@ -94,3 +94,11 @@ Estudiante de Ingeniería del Software en la **Universidad Europea del Atlántic
 </picture>
 
 </div>
+
+## Mapa de contribuciones
+
+<div align="center">
+
+![3D contrib](https://raw.githubusercontent.com/Alejandrojuarez0105/Alejandrojuarez0105/output/profile-3d-contrib/profile-night-view.svg)
+
+</div>
