@@ -1,6 +1,8 @@
-# Hola, soy Alejandro Juárez
+<div align="center">
 
-Estudiante de Ingeniería del Software en la **Universidad Europea del Atlántico**, aprendiendo construyendo proyectos reales.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=180&section=header&text=Alejandro%20Juárez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+</div>
 
 - Actualmente trabajando en **[Atlantis](https://github.com/Alejandrojuarez0105/Atlantis)**, una landing page para ayudar al aprendizaje de distintas materias
 - Aprendiendo y afianzando **TypeScript**, desarrollo web y bases de datos
